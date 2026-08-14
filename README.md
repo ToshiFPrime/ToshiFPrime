@@ -30,11 +30,11 @@ Apasionado por el desarrollo web y de escritorio, el diseño de arquitecturas es
 
 ---
 
-### 📌 Proyectos Destacados (En Construcción)
+### 📌 Proyectos Destacados
 
+* 🛒 **[PcComponentsBO](https://github.com/ToshiFPrime/PcComponentsBO):** Plataforma web para catálogo y gestión de componentes de PC, con filtrado avanzado, carrito y panel de administración.
 * 🏥 **Medical Surgery Booking System:** Arquitectura de agendamiento y transacciones ACID en Laravel + MySQL + Docker.
 * 🖥️ **Desktop Management Dashboard:** Cliente de escritorio en .NET 8 con interfaces reactivas y consumo de API REST.
-
 ---
 
 ### 📊 GitHub Stats
