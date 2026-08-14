@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Ivan Toshiaky 👋
+### Full-Stack Developer | Systems Engineering Student
 
-<!--
-**ToshiFPrime/ToshiFPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en el diseño de arquitectura de software, bases de datos relacionales y soluciones Full-Stack escalables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Backend:** PHP (Laravel), C# (.NET 8), Node.js
+- **Frontend:** JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Bases de Datos & ORM:** MySQL, SQL Server, Oracle SQL Developer Data Modeler, Eloquent, Entity Framework
+- **DevOps & Herramientas:** Docker, Git, GitHub Actions, Postman
+
+---
+
+### 📌 Proyectos Destacados
+- [Sistema de Cirugías / Agendamiento](#) - Backend en Laravel con arquitectura de BD relacional y Docker.
+- [App Desktop / Dashboard .NET 8](#) - Cliente administrativo con interfaz reactiva y conexión a API REST.
