@@ -35,10 +35,12 @@ Apasionado por el desarrollo web y de escritorio, el diseño de arquitecturas es
 * 🛒 **[PcComponentsBO](https://github.com/ToshiFPrime/PcComponentsBO):** Plataforma web para catálogo y gestión de componentes de PC, con filtrado avanzado, carrito y panel de administración.
 * 🏥 **Medical Surgery Booking System:** Arquitectura de agendamiento y transacciones ACID en Laravel + MySQL + Docker.
 * 🖥️ **Desktop Management Dashboard:** Cliente de escritorio en .NET 8 con interfaces reactivas y consumo de API REST.
+
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToshiFPrime&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshiFPrime&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ToshiFPrime&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ToshiFPrime's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ToshiFPrime&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
